@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Capstone Project: Agentic AI Workshop",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Capstone-Project",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/main/Labs/getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/main/Labs/challenge_guide.md",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Name": "Capstone Project: Agentic AI Workshop",
+    "Language": "Portuguese",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Capstone-Project",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Portuguese/Labs/getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Portuguese/Labs/challenge_guide.md",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Name": "Capstone Project: Agentic AI Workshop",
+    "Language": "Japanese",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Capstone-Project",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Japanese/Labs/getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Japanese/Labs/challenge_guide.md",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Name": "Capstone Project: Agentic AI Workshop",
+    "Language": "Spanish",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Capstone-Project",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Spanish/Labs/getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Spanish/Labs/challenge_guide.md",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Name": "Capstone Project: Agentic AI Workshop",
+    "Language": "Korean",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Capstone-Project",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Korean/Labs/getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/Korean/Labs/challenge_guide.md",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Name": "Capstone Project: Agentic AI Workshop",
+    "Language": "Simplified Chinese",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Capstone-Project",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/chinese-simplified/Labs/getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/chinese-simplified/Labs/challenge_guide.md",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Name": "Capstone Project: Agentic AI Workshop",
+    "Language": "Traditional Chinese",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Capstone-Project",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/chinese-traditional/Labs/getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Capstone-Project/refs/heads/chinese-traditional/Labs/challenge_guide.md",
+        "Order": 2
+      }
+    ]
+  }
+]

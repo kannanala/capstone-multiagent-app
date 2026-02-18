@@ -1,0 +1,16 @@
+# azure.yaml  –  Azure Developer CLI configuration
+name: capstone-multiagent-app
+
+services:
+  web:
+    project: .
+    language: docker
+    host: containerapp
+
+hooks:
+  preprovision:
+    shell: sh
+    run: echo "Preparing Capstone deployment…"
+  postdeploy:
+    shell: sh
+    run: echo "Deployment complete. Check the Azure Portal for the endpoint URL."
