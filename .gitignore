@@ -174,3 +174,7 @@ cython_debug/
 .env
 *.env
 src/**/.env
+
+.env
+*.env
+src/**/.env
